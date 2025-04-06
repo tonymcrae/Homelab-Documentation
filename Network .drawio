@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.8">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="1680" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="CGhPLYTZZGcvYnQnzDXN-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.ui.com/fingerprint/0/2777_129x129.png;" vertex="1" parent="1">
           <mxGeometry x="1154.01" y="146" width="129" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/smart-home-control-1/100/smart_pet_feeder_home_control_technology_network-512.png;textShadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="146" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
