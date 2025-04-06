@@ -28,13 +28,31 @@
           <mxGeometry x="780" y="255" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CGhPLYTZZGcvYnQnzDXN-10" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#000000,#0080C0);rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="560" width="250" height="410" as="geometry" />
+          <mxGeometry x="130" y="550" width="290" height="480" as="geometry" />
         </mxCell>
         <mxCell id="CGhPLYTZZGcvYnQnzDXN-12" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#000000,#0080C0);rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="560" width="250" height="410" as="geometry" />
+          <mxGeometry x="790" y="560" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CGhPLYTZZGcvYnQnzDXN-13" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#000000,#0080C0);rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="560" width="250" height="410" as="geometry" />
+          <mxGeometry x="470" y="560" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-14" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="94.67" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://camo.githubusercontent.com/fdffb57ca7bf0ba2900bab738df7bf002dee35f15e55f2029a97de1d2bdc1e07/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="42" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.asustor.com/images/feature/content_img/AS1102T/banner_model.png;" vertex="1" parent="1">
+          <mxGeometry x="290" y="605" width="99.21" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-21" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#000000,#0080C0);rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="770" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-22" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="790" width="65.22" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGhPLYTZZGcvYnQnzDXN-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gitea_Logo.svg/512px-Gitea_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="290" y="790" width="84.79" height="52.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
