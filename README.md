@@ -1,4 +1,4 @@
 # Homelab Configuration (Last Updated April 2025)
 
 
-![Network  drawio(2)](https://github.com/user-attachments/assets/7c11a9d2-7d20-4eb9-ad23-39333ddb2fdb)
+![Screenshot 2025-04-06 000521](https://github.com/user-attachments/assets/020eb1b4-11b8-46aa-b49e-3e3846e94aed)
